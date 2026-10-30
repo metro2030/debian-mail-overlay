@@ -4,10 +4,10 @@ This overlay base image contains Debian 13 "Trixie" slim (remove some extra file
 
 Software built from source :
 
-* Skalibs 2.15.1.0 : <https://skarnet.org/software/skalibs/>
-* Execline 2.9.9.2 : <https://skarnet.org/software/execline/>
-* s6 2.15.1.0 : <https://skarnet.org/software/s6/>
-* Rspamd 4.2.2 : <https://rspamd.com/>
+* Skalibs 2.16.0.0 : <https://skarnet.org/software/skalibs/>
+* Execline 2.10.0.0 : <https://skarnet.org/software/execline/>
+* s6 2.15.1.1 : <https://skarnet.org/software/s6/>
+* Rspamd 4.2.3 : <https://rspamd.com/>
 * Gucci v1.9.0 : <https://github.com/noqcks/gucci/>
 * traefik-certs-dumper v2.11.4 : <https://github.com/ldez/traefik-certs-dumper/>
 
